@@ -6,7 +6,7 @@
         </div>
         <div class="work-down">
             <div class="work-down-left">
-                <img src="../assets/we.jpg" alt="work with us">
+                <img src="../assets/we.avif" alt="work with us">
             </div>
             <div class="work-down-right">
                 <div>

@@ -14,7 +14,7 @@
 
 <style>
 .home{
-    background-image: url(../assets/home.png);
+    background-image: url(../assets/home.avif);
     object-fit: cover;
     padding: 10% 10%;
     display: flex;

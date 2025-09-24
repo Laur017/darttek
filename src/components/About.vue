@@ -9,22 +9,22 @@
             </div>
             <div ref="aboutSection" class="about-left-down">
                 <h3 v-if="visible">
-                <NumberFlow :oldValue="0" :value="10" suffix="+" :duration="3000"/> 
+                    10+
                 <span>Years Of Experience</span>
                 </h3>
                 <h3 v-if="visible">
-                <NumberFlow :oldValue="0" :value="30" suffix="+" :duration="3000"/> 
+                    30+
                 <span>Happy Clients</span>
                 </h3>
                 <h3 v-if="visible">
-                <NumberFlow :oldValue="0" :value="99" suffix="%" :duration="3000"/> 
+                    99%
                 <span>Client Satisfaction</span>
             </h3>
             </div>
         </div>
         <div class="about-right">
             <div>
-                <img src="../assets/we.jpg" alt="we">
+                <img src="../assets/we.avif" alt="we">
                 <p>Our Projects</p>
             </div>
         </div>
