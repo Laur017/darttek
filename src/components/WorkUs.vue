@@ -1,7 +1,7 @@
 <template>
     <div class="work">
         <div class="work-up">
-            <h3><span></span>Why choose us</h3>
+            <p><span></span>Why choose us</p>
             <h1>Why Trust Us For Your IT Needs?</h1>
         </div>
         <div class="work-down">
@@ -37,7 +37,7 @@
 }
 
 .work-up{
-    h3{
+    p{
         display: flex;
         align-items: center;
         gap: 1rem;

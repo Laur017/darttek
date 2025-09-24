@@ -116,7 +116,7 @@
     .footer-down-left{
         p{
             font-size: 2rem;
-            color: rgba(255, 255, 255, 0.5);
+            color: rgba(255, 255, 255, 0.75);
         }
     }
 

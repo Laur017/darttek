@@ -2,7 +2,7 @@
     <div class="about">
         <div class="about-left">
             <div class="about-left-up">
-                <h3><span></span>Who we are</h3>
+                <p><span></span>Who we are</p>
                 <h1>We are <span>professionals</span></h1>
                 <p>We share know-how, split risks and fully commit ourselves. We set goals and manage every aspect of every process to get there. We take pride in our skills and we specialize in a wide range of technologies.</p>
                 <button>Learn More</button>
@@ -77,7 +77,7 @@ onUnmounted(() => {
         .about-left-up{
             align-self: center;
             width: 60%;
-            h3{
+            p{
                 display: flex;
                 align-items: center;
                 gap: 1rem;
